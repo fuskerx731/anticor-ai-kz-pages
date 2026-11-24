@@ -6,5 +6,5 @@
   "requiresConsent": true,
   "officialIntegration": false,
   "hosting": "github-pages",
-  "apiBaseUrl": "PASTE_YOUR_CLOUDFLARE_WORKER_URL_HERE"
+  "apiBaseUrl": ""apiBaseUrl": "https://anticor-ai-kz-api.yerassyl003.workers.dev""
 }
