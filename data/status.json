@@ -1,9 +1,10 @@
 {
   "online": true,
   "aiConfigured": false,
-  "aiProvider": "unavailable",
-  "model": null,
+  "aiProvider": "gemini",
+  "model": "gemini-2.5-flash-lite",
   "requiresConsent": true,
   "officialIntegration": false,
-  "hosting": "github-pages"
+  "hosting": "github-pages",
+  "apiBaseUrl": "PASTE_YOUR_CLOUDFLARE_WORKER_URL_HERE"
 }
