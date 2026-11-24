@@ -1,0 +1,9 @@
+{
+  "online": true,
+  "aiConfigured": false,
+  "aiProvider": "unavailable",
+  "model": null,
+  "requiresConsent": true,
+  "officialIntegration": false,
+  "hosting": "github-pages"
+}
